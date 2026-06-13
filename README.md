@@ -1,3 +1,4 @@
+<img width="1359" height="616" alt="Screenshot from 2026-06-13 14-25-22" src="https://github.com/user-attachments/assets/91c1ec39-493d-4ed7-9c07-5013d64f57c3" />
 <img width="593" height="310" alt="Screenshot from 2026-06-13 15-04-51" src="https://github.com/user-attachments/assets/c4b32a58-3ddc-4451-8a5b-d1d4430d97ba" />Sales & Demand Forecasting for Businesses
 
 Future Interns – Machine Learning Internship (Task 1)
